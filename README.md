@@ -56,11 +56,4 @@ mainscreen.py # Main GUI application
 - Implement dynamic **home layout visualization** in the Map card.
 - Extend alarm system to handle multiple input sources and notifications.
 
-### How to Run
-
-1. Install required packages:
-
-```bash
-pip install pyqt5
-```
 
